@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
+<<<<<<< HEAD
 .vscode/
+=======
+./vscode
+>>>>>>> a49ce1c49e72953d8f5fbd199ecf47ed2292f1cb
 # Compiled Object files
 *.slo
 *.lo
