@@ -3,7 +3,7 @@
 
 int readNumber()
 {
-    int num;
+    int num{};
     std::cin >> num;
     
     return(num);
